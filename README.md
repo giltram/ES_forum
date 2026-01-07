@@ -1,4 +1,4 @@
-# Earshit
+# ES Forum
 
 ## 介绍
 一个用Django实现的论坛。
